@@ -1,4 +1,4 @@
-# Android Auto "Stub Apps"
+# Android Auto "Stub Apps" for Google Components
 
 This is a simple consolidation of the "stub apps" needed to avoid installing the corresponding Google components needed to use *Android Auto* on de-Googled Android ROMs.
 
